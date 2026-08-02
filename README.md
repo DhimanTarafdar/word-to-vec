@@ -5,4 +5,4 @@
 - Brief idea about word 2 vec
 - CBOW
 - Skip-gram concept
-- 3
+- Pretrained word2vec using gensim
