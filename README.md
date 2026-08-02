@@ -3,6 +3,6 @@
 - Introduction
 - What is Embedding
 - Brief idea about word 2 vec
-- 1
+- CBOW
 - 2
 - 3
