@@ -4,5 +4,5 @@
 - What is Embedding
 - Brief idea about word 2 vec
 - CBOW
-- 2
+- Skip-gram concept
 - 3
