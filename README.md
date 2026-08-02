@@ -2,7 +2,7 @@
 
 - Introduction
 - What is Embedding
-- Berif idea about word to
+- Brief idea about word 2 vec
 - 1
 - 2
 - 3
