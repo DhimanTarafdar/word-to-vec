@@ -7,3 +7,4 @@
 - Skip-gram concept
 - Pretrained word2vec using gensim
 - 1
+-2
