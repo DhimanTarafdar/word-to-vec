@@ -6,6 +6,5 @@
 - CBOW
 - Skip-gram concept
 - Pretrained word2vec using gensim
-- 
   
   
